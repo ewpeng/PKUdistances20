@@ -22,25 +22,81 @@ This class is structured around lectures and student assignments. It is not the 
 
 This course will explore the observational and theoretical underpinnings of our current understanding of galaxy formation and evolution. We will explore the following concepts:
 
-
-   * The language of astrophysics.
-   * What is a galaxy?
-   * Galaxy classification, statistical properties, scaling relations.
-   * The Milky Way and the Local Group
-   * Galaxy clusters
-   * Galaxies and dark matter - observational evidence, the halo model
-   * Gas cooling and star formation
-   * Feedback processes
-   * Mergers and interactions
-   * Stellar population synthesis
-   * Chemical evolution
-   * Dynamical evolution
-   * Galactic nuclei
-
-This will not be a traditional lecture course, but one where students help lead the direction that the class follows. A significant amount of class time will be devoted to projects, assignments, and debates.
+1. Introduction
+    * The distance to the Galactic Centre
+    * The distance to the Large Magellanic Cloud
+    * The 3D Universe on large(r) scales
+2. The solar neighbourhood
+    * Trigonometric, secular and statistical parallaxes
+    * Dynamical parallax
+    * Mass–luminosity relations/initial mass function
+    * Spectroscopic and photometric parallaxes
+3. From the Milky Way to the Local Group: Basic stellar physics
+    * Stellar evolution
+    * CNO cycle, p–p chain, triple-α, s-process reactions
+    * Main sequence, red giant branch, AGB, white dwarfs
+    * Stellar populations
+    * Photometric evolution
+4. From the Milky Way to the Local Group: Applications. I.
+    * Hertzsprung–Russell diagrams
+    * Subdwarf fitting
+    * Red clump stars
+    * The horizontal branch
+    * Giants and supergiants: TRGB, RGB bump, flux-weighted gravity– luminosity relationship
+    * White-dwarf sequences
+    * Period–density relations: instability strip, Baade–Wesselink method
+5. From the Milky Way to the Local Group: Applications. II.
+    * Variable stars: classical, Population II, anomalous and dwarf Cepheids, Mira variables, RR Lyrae stars
+    * Novae
+    * Geometric methods: planetary nebula expansion parallaxes, supernova light echoes, eclipsing binaries, maser-based distance determination
+6. Reaching Virgo cluster distances and beyond. I.
+    * Pulsars: dispersion measures and the Galactic free-electron distribution
+    * Beyond the Local Group: the Hubble Space Telescope Key Project, surface brightness fluctuations, globular cluster luminosity functions
+7. Reaching Virgo cluster distances and beyond. II.
+    * The planetary nebulae luminosity function
+    * Distances from galaxy kinematics: virial theorem, Tully–Fisher relation, Faber–Jackson relation, Fundamental Plane, Dn–σ relation, κ space
+    * Colour–magnitude relation
+8. From nearby galaxy clusters to cosmological distances. I.
+    * Hubble’s law
+    * Redshifts, peculiar motions
+    * The prevailing cosmological model
+    * Cosmological distances, the FLRW metric
+9. From nearby galaxy clusters to cosmological distances. II. Cosmology
+    * Luminosity/angular-diameter distances
+    * Cosmological models
+    * The Friedmann equation
+    * ΛCDM and accelerated expansion of the Universe
+    * Dark matter and dark energy
+10. From nearby galaxy clusters to cosmological distances. III. Supernovae
+    * Supernovae as beacons
+    * Classification
+    * Core collapse versus thermonuclear runaway
+    * Type Ia, Type II-P supernovae
+    * Photospheric expansion methods
+11. From nearby galaxy clusters to cosmological distances. IV. 
+    * Gamma-ray bursts
+    * Gravitational lensing
+12. From nearby galaxy clusters to cosmological distances. V.
+    * The Sunyaev–Zel’dovich effect
+    * CMB anisotropies, baryon acoustic oscillations
+    * The cosmic infrared background
+    * Gravitational waves as “standard sirens”
+13. Systematic uncertainties and common pitfalls
+    * Interstellar extinction, extinction laws, dust geometry
+    * Lutz–Kelker bias
+    * Malmquist bias
+    * The “Hubble constant controversy”, long versus short distances
+    * The era of precision cosmology
+14. Promises and prospects: the future
+    * New space-based observatories
+    * Novel geometric approaches
+    * The Pleiades distance controversy
+    * X-ray scattering haloes
+    * 21 cm tomography
+    * The known universe: summary (visualization)
 
 **References**
-   * [Galaxy Formation and Evolution](https://www.wiley.com/en-us/An+Introduction+to+Distance+Measurement+in+Astronomy-p-9780470511800), by Richard de Grijs - This will be the main textbook for the class.
+   * [An Introduction to Distance Measurement in Astronomy](https://www.wiley.com/en-us/An+Introduction+to+Distance+Measurement+in+Astronomy-p-9780470511800), by Richard de Grijs - This will be the main textbook for the class.
    * [Astrophysics Data Service (ADS)](http://adsabs.harvard.edu/abstract_service.html)
 
 **Lectures**
