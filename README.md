@@ -125,11 +125,11 @@ Students are encouraged to work together on homework assignments, but should ahn
 
 **Grading**
 
-Class Participation: 30%
+Class Participation: 20%
 
 Assignments: 40%
 
-Final Exam/Paper: 30%
+Final Exam: 40%
 
 **Schedule**
 
