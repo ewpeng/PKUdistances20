@@ -115,7 +115,7 @@ This course will explore the observational and theoretical underpinnings of our 
 
 **Projects, Assignments, and Reading**
 
-Students are encouraged to work together on homework assignments, but should ahnd them in separately.
+Students are encouraged to work together on homework assignments, but should hand them in separately.
 
 * [Assignment 1](https://github.com/ewpeng/PKUdistances18/blob/master/Assignment01.md): Due October 25
 * [Assignment 2](https://github.com/ewpeng/PKUdistances18/blob/master/Assignment02.md): Due November 15
