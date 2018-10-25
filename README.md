@@ -132,4 +132,4 @@ Final Exam: 40%
 
 **Schedule**
 
-This class meets every Thursday, 10am to 12 noon, in the KIAA 1st floor seminar room, except where noted differently on the schedule. 
+This class meets every Thursday, 10:10am to 12 noon, in the KIAA 1st floor seminar room, except where noted differently on the schedule. 
