@@ -101,16 +101,16 @@ This course will explore the observational and theoretical underpinnings of our 
 
 **Lectures**
 
-* September 20: [Lecture 1](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances01-2018.pdf)
-* October 18: [Lecture 2](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances02-2018.pdf)
-* October 25: [Lecture 3](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances03-2018.pdf)
-* November 1: [Lecture 4](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances04-2018.pdf)
-* November 8: [Lecture 5](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances05-2018.pdf)
-* November 15: [Lecture 6](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances06-2018.pdf)
-* November 22: [Lecture 7](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances07-2018.pdf)
-* November 29: [Lecture 8](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances08-2018.pdf)
-* December 6: [Lecture 9](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances09-2018.pdf)
-* December 13: [Lecture 10](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances10-2018.pdf)
+* [September 20](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances01-2018.pdf)
+* [October 18](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances02-2018.pdf)
+* October 25
+* [November 1](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances04a-2018.pdf)
+* [November 8](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances04b-2018.pdf)
+* November 15
+* November 22
+* November 29
+* December 6
+* December 13
 
 
 **Projects, Assignments, and Reading**
