@@ -111,7 +111,7 @@ This course will explore the observational and theoretical underpinnings of our 
 * November 29: [Lecture 8](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances08-2018.pdf)
 * December 6: [Lecture 9](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances09-2018.pdf)
 * December 13: [Lecture 10](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances10-2018.pdf)
-* December 20: [Lecture 11](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances11-2018.pdf)
+
 
 **Projects, Assignments, and Reading**
 
