@@ -17,10 +17,15 @@ galaxies (for the same limiting signal-to-noise ratio)? How large a peculiar vel
 
 
 2. To give you a feeling for the problems associated with using galaxies that are not distant enough to be in the Hubble flow for deriving H0, download a slice of the “Virgo consortium universe” from the class website: http://kiaa.pku.edu.cn/~peng/teaching/distances18/VCUslice.dat. These data come from a massive simulation of a cube of the Universe measuring 150 Mpc on a side. The data give the x, y, and z coordinates (in Mpc) of each galaxy in the simulation, their line-of-sight velocity (in km/s), and their star-formation rate (in Msun/yr). The slice has been taken by restricting the x coordinates of the galaxies, so plot y versus z to see the large-scale structure in the simulation slice.
+
 Assume that the Sun is at the coordinate (50,0,0) and calculate the inferred Hubble constant from each of the following samples:
+
 a. Galaxies closer than 20 Mpc from the Sun;
+
 b. Galaxies between 25 and 75 Mpc from the Sun; and
+
 c. Galaxies further than 100 Mpc from the Sun.
+
 To do this, use the known distance of the galaxies (calculated from the coordinates) and the line-of-sight velocities. What do you estimate for the value of the Hubble constant used to produce the simulation (include an error bar!)?
 Comment on the accuracy of using the two relatively nearby samples: what kind of uncertainty do the peculiar velocities of galaxies add?
 Now repeat this using only elliptical galaxies (star-formation rate = 0). Are your results different? Why?
