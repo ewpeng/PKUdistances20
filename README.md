@@ -109,7 +109,7 @@ This course will explore the observational and theoretical underpinnings of our 
 * [November 15](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances05a-2018.pdf)
 * [November 22](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances05b-2018.pdf)
 * [November 29](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances06-2018.pdf)
-* December 6
+* [December 6](https://kiaa.pku.edu.cn/~peng/teaching/distances18/Distances07-2018.pdf)
 * January 3
 
 
@@ -120,8 +120,6 @@ Students are encouraged to work together on homework assignments, but should han
 * [Assignment 1](https://github.com/ewpeng/PKUdistances18/blob/master/Assignment01.md): Due October 25
 * [Assignment 2](https://github.com/ewpeng/PKUdistances18/blob/master/Assignment02.md): Due November 15
 * [Assignment 3](https://github.com/ewpeng/PKUdistances18/blob/master/Assignment03.md): Due December 6
-* Assignment 4: Due December 13
-* Assignment 5: Due December 27
 
 **Grading**
 
