@@ -1,6 +1,6 @@
 # Assigment 1
 
-Due: 25 October 2018
+Due: 26 September 2019
 
 Please make sure your homework has your name (both Chinese and pinyin). Please hand your answers and solutions to the homework questions in before or on 25 October 2018. Submissions should be in PDF format and sent by email to peng@pku.edu.cn. You must submit your work in English (this doesn’t need to be flawless, as long as we can understand what you mean).
 
@@ -8,5 +8,5 @@ Please make sure your homework has your name (both Chinese and pinyin). Please h
 How are stellar parallaxes measured by Hipparcos and the Hubble Space Telescope?
 
 2. Proper motions are important for various reasons. They are useful for establishing the space motions of stars, for determining membership probabilities for stars in star clusters, for estimating the masses of star clusters, and for calibrating the open cluster distance scale via the moving groups method. The Hipparcos mission has been tremendously useful for the use of the moving groups method, since the satellite measured proper motions for stars with very high precision. However, accuracy was a different issue, given that the satellite observed stars for only about 7 years. Why is that a problem for measuring accurate proper motions? How, then, did Hipparcos measure proper motions for stars?
- 
+
 3. Prior to the Hipparcos mission, the US Naval Observatory (USNO) ran a programme to measure parallaxes for nearby stars that matched the precision reached by Hipparcos. However, it is not possible to confirm or cross match the accuracy of the two sets of parallaxes, since the two independent programmes measured quite different stars. Explain this statement. You may have to explore the characteristics of the USNO and Hipparcos in detail in the literature or on-line.
