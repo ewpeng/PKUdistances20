@@ -102,8 +102,8 @@ This course will explore the observational and theoretical underpinnings of our 
 **Lectures**
 
 * [September 10](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances01-2019.pdf)
-* [September 17](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)
-* [September ?](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
+* [September 13](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)
+* [September 17](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
 * [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04b-2019.pdf)
 * [October 22](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05a-2019.pdf)
 * [October ?](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05b-2019.pdf)
