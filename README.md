@@ -107,8 +107,8 @@ This course will explore the observational and theoretical underpinnings of our 
 * October 15
 * October 18 (3pm)
 * October 22
-* November 12
-* November ? 
+* November 8
+* November 12 
 
 
 **Projects, Assignments, and Reading**
