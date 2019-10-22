@@ -106,7 +106,7 @@ This course will explore the observational and theoretical underpinnings of our 
 * [September 17](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
 * [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04b-2019.pdf)
 * [October 18 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05a-2019.pdf)
-* October 22
+* October 22: [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05b-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances06-2019.pdf)
 * November 8 (3pm)
 * November 12 
 
