@@ -76,24 +76,6 @@ This course will explore the observational and theoretical underpinnings of our 
 11. From nearby galaxy clusters to cosmological distances. IV.
     * Gamma-ray bursts
     * Gravitational lensing
-12. From nearby galaxy clusters to cosmological distances. V.
-    * The Sunyaev–Zel’dovich effect
-    * CMB anisotropies, baryon acoustic oscillations
-    * The cosmic infrared background
-    * Gravitational waves as “standard sirens”
-13. Systematic uncertainties and common pitfalls
-    * Interstellar extinction, extinction laws, dust geometry
-    * Lutz–Kelker bias
-    * Malmquist bias
-    * The “Hubble constant controversy”, long versus short distances
-    * The era of precision cosmology
-14. Promises and prospects: the future
-    * New space-based observatories
-    * Novel geometric approaches
-    * The Pleiades distance controversy
-    * X-ray scattering haloes
-    * 21 cm tomography
-    * The known universe: summary (visualization)
 
 **References**
    * [An Introduction to Distance Measurement in Astronomy](https://www.wiley.com/en-us/An+Introduction+to+Distance+Measurement+in+Astronomy-p-9780470511800), by Richard de Grijs - This will be the main textbook for the class.
@@ -107,8 +89,8 @@ This course will explore the observational and theoretical underpinnings of our 
 * [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04b-2019.pdf)
 * [October 18 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05a-2019.pdf)
 * October 22: [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05b-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances06-2019.pdf)
-* November 8 (3pm)
-* November 12 
+* [November 8 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances07-2019.pdf)
+* November 12 : [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances08-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances09-2019.pdf), [Part 3](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances10-2019.pdf), [Part 4](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances11-2019.pdf)
 
 
 **Projects, Assignments, and Reading**
