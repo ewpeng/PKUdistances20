@@ -1,6 +1,6 @@
 # Introduction to Distance Measurement in Astronomy
 
-**Course:** Distance Measurement in Astronomy - Fall, 2019
+**Course:** Distance Measurement in Astronomy - Fall, 2020
 
 **Instructor:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>
 
@@ -23,8 +23,6 @@ This class is structured around lectures and student assignments. It is not the 
 This course will explore the observational and theoretical underpinnings of our current understanding of galaxy formation and evolution. We will explore the following concepts:
 
 1. Introduction
-    * The distance to the Galactic Centre
-    * The distance to the Large Magellanic Cloud
     * The 3D Universe on large(r) scales
 2. The solar neighbourhood
     * Trigonometric, secular and statistical parallaxes
@@ -83,23 +81,24 @@ This course will explore the observational and theoretical underpinnings of our 
 
 **Lectures**
 
-* [September 10](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances01-2019.pdf)
-* [September 13](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)
+* [September 24](https://kavli.pku.edu.cn/~peng/teaching/distances20/Distances01-2020.pdf)
+<!-- * [September 13](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)
 * [September 17](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
 * [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04b-2019.pdf)
 * [October 18 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05a-2019.pdf)
 * October 22: [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05b-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances06-2019.pdf)
 * [November 8 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances07-2019.pdf)
 * November 12 : [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances08-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances09-2019.pdf), [Part 3](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances10-2019.pdf), [Part 4](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances11-2019.pdf)
-
+--!>
 
 **Projects, Assignments, and Reading**
 
 Students are encouraged to work together on homework assignments, but should hand them in separately.
 
-* [Assignment 1](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment01.md): Due September 26
-* [Assignment 2](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment02.md): Due October 31
+* [Assignment 1](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment01.md): Due September 26
+<!--* [Assignment 2](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment02.md): Due October 31
 * [Assignment 3](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment03.md): Due December 6
+--!>
 
 **Grading**
 
@@ -111,4 +110,4 @@ Final Exam: 40%
 
 **Schedule**
 
-This class meets every Tuesday, 6:30pm to 8:20pm, in the KIAA Rm 208, except where noted differently on the schedule.
+This class meets every Thursday, 8:00am to 09:50am, remotely via Zoom. Please check the class Slack channel for the link.
