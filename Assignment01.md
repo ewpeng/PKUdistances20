@@ -1,6 +1,6 @@
 # Assigment 1
 
-Due: 26 September 2019
+Due: 13 October 2020
 
 Please make sure your homework has your name (both Chinese and pinyin). Please hand your answers and solutions to the homework questions in before or on 26 September 2019. Submissions should be in PDF format and sent by email to peng@pku.edu.cn. You must submit your work in English (this doesn’t need to be flawless, as long as we can understand what you mean).
 
