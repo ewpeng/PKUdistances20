@@ -84,12 +84,12 @@ This course will explore the observational and theoretical underpinnings of our 
 * [September 24](https://kavli.pku.edu.cn/~peng/teaching/distances20/Distances01-2020.pdf)
 * [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)
 
-<!-- * [October 22](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
+<!--* [October 22](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
 * [October 29](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04b-2019.pdf)
 * [November 5](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05a-2019.pdf)
 * October 22: [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05b-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances06-2019.pdf)
 * [November 8 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances07-2019.pdf)
-* November 12 : [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances08-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances09-2019.pdf), [Part 3](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances10-2019.pdf), [Part 4](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances11-2019.pdf)--!>
+* November 12 : [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances08-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances09-2019.pdf), [Part 3](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances10-2019.pdf), [Part 4](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances11-2019.pdf)-->
 
 **Projects, Assignments, and Reading**
 
@@ -99,7 +99,7 @@ Students are encouraged to work together on homework assignments, but should han
 
 <!--* [Assignment 2](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment02.md): Due October 31
 * [Assignment 3](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment03.md): Due December 6
---!>
+-->
 
 **Grading**
 
