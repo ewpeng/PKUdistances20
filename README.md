@@ -11,6 +11,8 @@ This course is aimed at the first-year graduate student in astronomy, or advance
 
 This class is structured around lectures and student assignments. It is not the goal of this class to expose students to every topic in the field, but rather to explore a few important concepts, and to encourage students to explore associated material. The working languages of this class are English and Python.
 
+This course will be taught remotely.
+
 **Prerequisites**
 
 
@@ -113,4 +115,4 @@ Final Exam: 40%
 
 **Schedule**
 
-This class meets every Thursday, 8:00am to 09:50am, remotely via Zoom. Please check the class Slack channel for the link.
+This class meets every Thursday, 8:00am to 09:50am, **remotely via Zoom**. Please check the class Slack channel for the link.
