@@ -100,8 +100,8 @@ This course will explore the observational and theoretical underpinnings of our 
 Students are encouraged to work together on homework assignments, but should hand them in separately.
 
 * [Assignment 1](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment01.md): Due October 13
-
-<!--* [Assignment 2](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment02.md): Due October 31
+* [Assignment 2](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment02.md): Due October 21
+<!--
 * [Assignment 3](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment03.md): Due December 6
 -->
 
