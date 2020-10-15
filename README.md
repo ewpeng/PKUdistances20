@@ -83,7 +83,7 @@ This course will explore the observational and theoretical underpinnings of our 
 
 **Lectures**
 
-* [September 24](https://kavli.pku.edu.cn/~peng/teaching/distances20/Distances01-2020.pdf)
+* [September 24](https://kavli.pku.edu.cn/~peng/teaching/distances20/Distances1-2-2020.pdf)
 * October 16
 
 <!--* [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)-->
