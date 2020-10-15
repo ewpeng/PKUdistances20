@@ -84,7 +84,19 @@ This course will explore the observational and theoretical underpinnings of our 
 **Lectures**
 
 * [September 24](https://kavli.pku.edu.cn/~peng/teaching/distances20/Distances1-2-2020.pdf)
-* October 16
+* October 16: Stellar Evolution and Stellar Populations
+* October 23: From the Milky Way to the Local Group: Applications I
+* October 30: From the Milky Way to the Local Group: Applications II
+* November 6
+* November 13
+* November 20
+* November 27: NO CLASS
+* December 4
+* December 11
+* December 18
+* December 25: NO CLASS
+* January 1: NO CLASS
+* January 8
 
 <!--* [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)-->
 
@@ -100,8 +112,8 @@ This course will explore the observational and theoretical underpinnings of our 
 Students are encouraged to work together on homework assignments, but should hand them in separately.
 
 * [Assignment 1](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment01.md): Due October 13
-<!-- * [Assignment 2](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment02.md): Due October 21
-* [Assignment 3](https://github.com/ewpeng/PKUdistances19/blob/master/Assignment03.md): Due December 6
+* [Assignment 2](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment02.md): Due November 3
+<!-- * [Assignment 3](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment03.md): Due December 6
 -->
 
 **Grading**
