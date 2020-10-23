@@ -85,7 +85,7 @@ This course will explore the observational and theoretical underpinnings of our 
 
 * [September 24](https://disk.pku.edu.cn:443/link/29C5A3882619C0F5A255558D091C694C)
 * October 16: [Stellar Evolution and Stellar Populations](https://disk.pku.edu.cn:443/link/17F0DB6B7CF9503702FC3C02096488A9)
-* October 23: From the Milky Way to the Local Group: Applications I
+* October 23: [From the Milky Way to the Local Group: Applications I](https://disk.pku.edu.cn:443/link/17F0DB6B7CF9503702FC3C02096488A9)
 * October 30: From the Milky Way to the Local Group: Applications II
 * November 6
 * November 13
