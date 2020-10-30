@@ -86,9 +86,9 @@ This course will explore the observational and theoretical underpinnings of our 
 * [September 24](https://disk.pku.edu.cn:443/link/29C5A3882619C0F5A255558D091C694C)
 * October 16: [Stellar Evolution and Stellar Populations](https://disk.pku.edu.cn:443/link/17F0DB6B7CF9503702FC3C02096488A9)
 * October 23: [From the Milky Way to the Local Group: Applications I](https://disk.pku.edu.cn:443/link/F1A5A651C2C2DBC2C54A405ACCE4EFD1)
-* October 30: From the Milky Way to the Local Group: Applications II
-* November 6
-* November 13
+* October 30: [From the Milky Way to the Local Group: Applications II](https://disk.pku.edu.cn:443/link/4CAC8D672C2DBC179ED8E11F21F4C9AD)
+* November 6: Reaching Virgo Cluster Distances and Beyond. I.
+* November 13: Reaching Virgo Cluster Distances and Beyond. II.
 * November 20
 * November 27: NO CLASS
 * December 4
