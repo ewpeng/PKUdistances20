@@ -113,8 +113,7 @@ Students are encouraged to work together on homework assignments, but should han
 
 * [Assignment 1](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment01.md): Due October 13
 * [Assignment 2](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment02.md): Due November 3
-<!-- * [Assignment 3](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment03.md): Due December 6
--->
+* [Assignment 3](https://github.com/ewpeng/PKUdistances20/blob/master/Assignment03.md): Due December 1
 
 **Grading**
 
