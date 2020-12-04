@@ -91,8 +91,8 @@ This course will explore the observational and theoretical underpinnings of our 
 * November 13: [Reaching Virgo Cluster Distances and Beyond. II.](https://disk.pku.edu.cn:443/link/C94CF0AE319D5B5E81FFB3BEB9A64E62)
 * November 20: [From Nearby Galaxy Clusters to Cosmological Distances. I.](https://disk.pku.edu.cn:443/link/5A7B1E23AB5DA1449313583C02580DC8)
 * November 27: NO CLASS
-* December 4
-* December 11
+* December 4 [From Nearby Galaxy Clusters to Cosmological Distances. II.](https://disk.pku.edu.cn:443/link/91BAC3E7298678847DCC5A2B146D87AB)
+* December 11 From Nearby Galaxy Clusters to Cosmological Distances. III. Supernovae.
 * December 18
 * December 25: NO CLASS
 * January 1: NO CLASS
