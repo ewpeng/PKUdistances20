@@ -93,19 +93,10 @@ This course will explore the observational and theoretical underpinnings of our 
 * November 27: NO CLASS
 * December 4 [From Nearby Galaxy Clusters to Cosmological Distances. II. Cosmology](https://disk.pku.edu.cn:443/link/91BAC3E7298678847DCC5A2B146D87AB)
 * December 11 [From Nearby Galaxy Clusters to Cosmological Distances. III. Supernovae](https://disk.pku.edu.cn:443/link/91BAC3E7298678847DCC5A2B146D87AB)
-* December 18
+* December 18 From Nearby Galaxy Clusters to Cosmological Distances. IV.
 * December 25: NO CLASS
 * January 1: NO CLASS
 * January 8
-
-<!--* [October 15](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances02-2019.pdf)-->
-
-<!--* [October 22](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04a-2019.pdf)
-* [October 29](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances04b-2019.pdf)
-* [November 5](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05a-2019.pdf)
-* October 22: [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances05b-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances06-2019.pdf)
-* [November 8 (3pm)](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances07-2019.pdf)
-* November 12 : [Part 1](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances08-2019.pdf), [Part 2](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances09-2019.pdf), [Part 3](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances10-2019.pdf), [Part 4](https://kiaa.pku.edu.cn/~peng/teaching/distances19/Distances11-2019.pdf)-->
 
 **Projects, Assignments, and Reading**
 
