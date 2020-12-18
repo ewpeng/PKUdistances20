@@ -92,7 +92,7 @@ This course will explore the observational and theoretical underpinnings of our 
 * November 20: [From Nearby Galaxy Clusters to Cosmological Distances. I.](https://disk.pku.edu.cn:443/link/5A7B1E23AB5DA1449313583C02580DC8)
 * November 27: NO CLASS
 * December 4 [From Nearby Galaxy Clusters to Cosmological Distances. II. Cosmology](https://disk.pku.edu.cn:443/link/91BAC3E7298678847DCC5A2B146D87AB)
-* December 11 [From Nearby Galaxy Clusters to Cosmological Distances. III. Supernovae](https://disk.pku.edu.cn:443/link/91BAC3E7298678847DCC5A2B146D87AB)
+* December 11 [From Nearby Galaxy Clusters to Cosmological Distances. III. Supernovae](https://disk.pku.edu.cn:443/link/54AA349433BE932AB4D60FD133741321)
 * December 18 [From Nearby Galaxy Clusters to Cosmological Distances. IV.](https://disk.pku.edu.cn:443/link/F4521004D0A4776B50EB67A93797D7AD)
 * December 25: NO CLASS
 * January 1: NO CLASS
